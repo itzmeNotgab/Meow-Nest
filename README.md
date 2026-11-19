@@ -9,7 +9,11 @@ One self-contained `index.html` (sprites embedded), no build step. Installable a
 - Pet, feed (drag food onto Mochi), play with the red dot, throw toys, zoomies, nap spots
 - Unlimited furniture: drag to move on a tiny grid, drop on the trash to delete
 - Mochi walks around furniture, climbs on it, stretches, naps and more
-- Synthesized sound effects with a mute button; progress saved in the browser
+- Coin shop for furniture and cat outfits (food is unlimited), daily gift, mini-games (Fish Splash, Treat Catch) that earn coins
+- Mochi naps in the cat bed, climbs the cat tree and watches the TV or aquarium when they are on
+- Day and night follow the phone clock (window sky, lamp and TV glow, sleepier Mochi)
+- Photo mode with share/save, picture frames that hold your own photos, names, 3 rooms, wall and floor themes
+- Synthesized sound effects; progress saved in the browser
 - Fullscreen landscape layout: menu on the left, item bar on the right
 
 ## Run locally
