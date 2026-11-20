@@ -12,7 +12,9 @@ One self-contained `index.html` (sprites embedded), no build step. Installable a
 - Coin shop for furniture and cat outfits (food is unlimited), daily gift, mini-games (Fish Splash, Treat Catch) that earn coins
 - Mochi naps in the cat bed, climbs the cat tree and watches the TV or aquarium when they are on
 - Day and night follow the phone clock (window sky, lamp and TV glow, sleepier Mochi)
-- Photo mode with share/save, picture frames that hold your own photos, names, 3 rooms, wall and floor themes
+- One continuous home: drag to look around, rooms flow into each other (Living room, Bedroom, Garden), tap a lock to unlock the next one
+- Up to 3 cats, each with its own name, coat (10 colours), needs and outfits; tap the chips (bottom left) to switch or add a cat
+- 14 foods, crisp vector icons, photo mode with share/save, picture frames that hold your own photos, wall and floor themes per room
 - Synthesized sound effects; progress saved in the browser
 - Fullscreen landscape layout: menu on the left, item bar on the right
 
